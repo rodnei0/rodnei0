@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as Technical Support Analyst
+- 🌱 I'm currently studying to become a Full Stack Web Developer at Driven Education
+- ⚡ I love to solve problems, this is what moves me
+- 😄 Pronouns: He/Him
+
+
+
 <!--
 **rodnei0/rodnei0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
