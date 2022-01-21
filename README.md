@@ -5,6 +5,8 @@
 - ⚡ I love to solve problems, this is what moves me
 - 😄 Pronouns: He/Him
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodnei0)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
