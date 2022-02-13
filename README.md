@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Technical Support Analyst
 - 🌱 I'm currently studying to become a Full Stack Web Developer at Driven Education
-- ⚡ I love to solve problems, this is what moves me
+- ⚡ I love coding, time flies when I'm coding
 - 😄 Pronouns: He/Him
 
 ## Familiar with:
