@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Technical Support Analyst
 - 🌱 I'm currently studying to become a Full Stack Web Developer at Driven Education
 - ⚡ I love coding, time flies when I'm coding
+- 🔭 I’m currently working as Technical Support Analyst
 - 😄 Pronouns: He/Him
 
 ## Familiar with:
