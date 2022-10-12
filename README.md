@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋🏾
 
-- 💻 I'm a Full Stack Web Developer
-- 👨‍💻 Time flies when I'm coding
-- 🎧 I’m currently working as Technical Support Analyst
+- 💻 I'm a Full Stack Software Engineer
+- 👨🏾‍💻 I’m currently working at @irestify
+- 🕘 Time flies when I'm coding
 - 🌎 I love to travel and discover new places, especially natural parks
 
 ## Familiar with:
