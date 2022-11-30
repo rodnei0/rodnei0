@@ -1,7 +1,6 @@
 ### Hi there 👋🏾
 
-- 💻 I'm a Full Stack Software Engineer
-- 👨🏾‍💻 I’m currently working at @irestify
+- 👨🏾‍💻 I'm a Full Stack Software Engineer
 - 🕘 Time flies when I'm coding
 - 🌎 I love to travel and discover new places, especially natural parks
 
